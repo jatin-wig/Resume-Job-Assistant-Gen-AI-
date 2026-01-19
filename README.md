@@ -81,3 +81,5 @@ or
 python -m streamlit run app.py 
 ```
 
+# Built by Jatin Wig
+### GitHub: https://github.com/jatin-wig
